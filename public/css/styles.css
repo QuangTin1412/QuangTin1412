@@ -1,0 +1,231 @@
+body{
+    background: #f8f8f8;
+    margin: 0;
+}
+.nav{
+    background-color: #fff;
+}
+.header {
+    background-color: #262626;
+   
+}
+.content{
+   background-size: cover;
+    background: url(https://peacefulqode.com/themes/techtrix/intro/rev/assets/Untitled-18.jpg);
+}
+.header_evanto-logo{
+    width: 200px;
+   margin-top: 30px;
+   padding: 5px;
+}
+.header_evanto-btn{
+    padding: 11px 0;
+    margin-left: 1100px;
+}
+.header_evanto-btn-buy{
+   background: #82b440;
+    padding:5px 20px;
+    border-radius:4px;
+    font-size:14px;
+    line-height:16px;
+    transition: 0.5s;
+    position: relative;
+}
+
+.free-quote{
+        border-radius: 5px;
+        background: #fd4a18;
+        text-decoration: none;
+        color: #ffffffdb;
+        padding: 20px 30px;
+        font-size: 1.2em;
+        margin-right: 20px;
+        display: inline-block;
+}
+
+.free-quote:hover{
+    background-color: #000000;
+    color: #fff;
+}
+.link{
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #000000;
+}
+.now{
+    border-radius: 5px;
+    background: #fd4a18;
+    text-decoration: none;
+    color: #ffffffdb;
+    padding: 8px 21px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.now:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.mid{
+    text-align: center;
+}
+.item{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    width: 325px;
+    height: 393px;
+   
+    margin-right: 10px;    
+}
+.list{
+    margin-top: 40px;
+    transition: all .2s ease-in-out;
+
+}
+.list:hover{
+    transform: scale(1.11);
+}
+.but{
+    text-decoration: none;
+    color: #000000db;
+    padding: 20px 20px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.but:hover{
+    color: orangered;
+}
+.text{
+    padding-left: 30px;
+    font-size: 45px;
+}
+.text1{
+   padding-left: 30px;
+    font-size: 25px;
+    color: #fd4a18;
+}
+.text3{
+    padding-left: 30px;
+    font-size: 15px;
+    color: #61666b;
+}
+.img{
+    width: 600px;
+    height: auto    ;
+}
+.img2{
+    width: 100px;
+    height: auto;
+    
+}
+.text4{
+    font-size: 20px;
+    color: #000000;
+}
+.icon{
+    color: #fd4a18;
+}
+.text_1{
+    font-size: 15px;
+    color: #fd4a18;
+    text-align: center;
+}
+.text_2{
+   text-align: center;
+    font-size: 45px;
+}
+.text_3{
+   
+    font-size: 10px;
+    color: #61666b;
+    text-align: center;
+}
+.p8_img{
+    text-align: center;
+}
+.img_p8{
+    width: 600px;
+    height: auto;
+    text-align: center;
+  
+}
+.img2_p8{
+    width: 330px;
+    height: auto;
+    left: 50px;
+    top: -500px;
+}
+.img1_p8{
+    width: 330px;
+    height: auto;
+}
+.navbar_2{
+    background: #262626;
+   padding: 30px;
+}
+.text_4{
+    color: #f8f8f8;
+    text-align: center;
+    font-size: 50px;
+   
+}
+.text_5{
+    color: #f8f8f8;
+    text-align: center;
+    font-size: 50px;
+}
+.sp{
+    color: #fd4a18;
+}
+.page9{
+    padding-top: 100px;
+}
+.item_icon{
+    width: 40px;
+}
+.row{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.navbar_3{
+   padding: 100px;
+    background: #151515;
+    text-align: center;
+}
+.text_6{
+    color: #ffffff;
+    font-size: 10px;
+    
+}
+.Purchase_now{
+    border-radius: 5px;
+    background: #151515;
+    text-decoration: none;
+    color: #ffffffdb;
+    padding: 20px 30px;
+    font-size: 1.2em;
+    margin-right: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.Purchase_now:hover{
+background-color: #fd4a18;
+color: #fff;
+}
+.nav_1{
+   padding-top: 100px;
+    background-color: #000000;
+}
+.item_test{
+    margin-top: 40px;
+    transition: all .2s ease-in-out;
+
+}
+.item_test:hover{
+    transform: scale(1.11);
+}
